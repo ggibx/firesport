@@ -9,7 +9,7 @@
   </main>
   
   
-  <footer class="tar-bar">
+  <footer class="tab-bar">
     <router-link to="/sports" class="tab-item" active-class="tab-active">
       <span class="tab-icon">🏃</span>
       <span class="tab-text">运动</span>
